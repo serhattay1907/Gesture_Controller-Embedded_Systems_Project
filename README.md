@@ -25,15 +25,14 @@ When you tilt the device left or right, the character moves accordingly. A sudde
 
 ## 🛠️ Hardware Requirements
 
-| Component | Qty | Price (TRY) | Purpose |
+| Component | Qty | Purpose |
 |---|---|---|---|
-| Arduino Nano (Clone) | 1 | ~130 ₺ | Microcontroller — reads sensor, sends data via USB |
-| MPU6050 GY-521 | 1 | ~120 ₺ | IMU sensor — measures acceleration and gyroscope |
-| Breadboard (830 pin) | 1 | ~45 ₺ | Solderless prototyping |
-| Jumper Wires (M-F) | 1 set | ~32 ₺ | Connections between sensor and Arduino |
-| USB Cable | 1 | — | Power + Serial data to PC |
+| Arduino Nano (Clone) | 1 | Microcontroller — reads sensor, sends data via USB |
+| MPU6050 GY-521 | 1 | IMU sensor — measures acceleration and gyroscope |
+| Breadboard (830 pin) | 1 | Solderless prototyping |
+| Jumper Wires (M-F) | 1 set | Connections between sensor and Arduino |
+| USB Cable | 1  | Power + Serial data to PC |
 
-**Total estimated cost: ~327 ₺**
 
 ---
 
